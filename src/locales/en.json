@@ -1,0 +1,76 @@
+{
+    "nav": {
+      "home": "Home",
+      "news": "News",
+      "about": "About",
+      "contact": "Contact",
+      "services": "Products and Services"
+    },
+    "home": {
+      "title": "Great News.",
+      "text": "It's already warm!",
+      "slogan": "Learn languages with pleasure!",
+      "advantages": [
+        "Native speakers",
+        "Certified teachers",
+        "Flexible schedule",
+        "Free trial lesson",
+        "Certificate of completion"
+      ]
+    },
+    "news": {
+      "title": "News",
+      "articles": [
+        "How to learn new words effectively?",
+        "Conversational English in 30 days",
+        "Interesting facts about languages",
+        "Ancient languages. Prospects of learning"
+      ]
+    },
+    "about": {
+      "title": "Southern Federal University",
+      "mission": "Helping to overcome language barriers since 2020",
+      "students": "Over 1000 students",
+      "approach": "Individual approach"
+    },
+    "contact": {
+      "title": "Contact",
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "city": "Rostov-on-Don, Universitetsky per. 93",
+      "form": "Send a question",
+      "name": "Name",
+      "emailPlaceholder": "Email",
+      "message": "Message",
+      "send": "Send"
+    },
+    "services": {
+      "title": "Products and Services",
+      "course": "Course",
+      "description": "Description",
+      "courses": [
+        "Preparation for EGE/OGE",
+        "English/Spanish/French/Italian/Chinese",
+        "Online lessons",
+        "Group classes",
+        "Classes with native speakers"
+      ],
+      "descriptions": [
+        "Exam preparation with experienced teachers",
+        "Courses for beginners and advanced learners",
+        "Convenient learning from home",
+        "Language learning in groups of up to 8 people",
+        "Practice with native speakers"
+      ],
+      "download": "Download brochure"
+    },
+    "tags": "Tag Cloud",
+    "banners": "Banner space",
+    "footer": {
+      "contact": "Contact",
+      "address": "Address",
+      "city": "Rostov-on-Don, Universitetsky per. 93",
+      "created": "Created by Lingvo+, 2025"
+    }
+  }
